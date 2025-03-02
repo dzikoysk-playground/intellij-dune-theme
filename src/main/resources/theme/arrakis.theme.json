@@ -489,7 +489,7 @@
     "$activeTabBackground": "#262523",
     "$windowBackground": "#2F3030",
     "$titleBackground": "#2b2926",
-    "$selectionBackground": "#d17b8d",
+    "$selectionBackground": "#a46673",
     "$selectionBackgroundMuted": "#282828",
     "$selectionUnderline": "#9e834c",
     "$selectionBackgroundInactive": "#282828",
