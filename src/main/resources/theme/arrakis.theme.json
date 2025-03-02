@@ -135,7 +135,7 @@
     "FileColor": {
       "Rose": "#52282e",
       "Orange": "#4f2f1f",
-      "Yellow": "#453c1d",
+      "Yellow": "#d19577",
       "Green": "#25401a",
       "Blue": "#283857",
       "Violet": "#472a5e"
@@ -489,10 +489,10 @@
     "$activeTabBackground": "#262523",
     "$windowBackground": "#2F3030",
     "$titleBackground": "#2b2926",
-    "$selectionBackground": "#4d4b49",
-    "$selectionBackgroundMuted": "#3d3c3b",
+    "$selectionBackground": "#d17b8d",
+    "$selectionBackgroundMuted": "#3f3739",
     "$selectionUnderline": "#9e834c",
-    "$selectionBackgroundInactive": "#3D3C3B",
+    "$selectionBackgroundInactive": "#3f3739",
     "$selectionUnderlineInactive": "#69655f",
     "$selectionForeground": "#EEEEEE",
     "$selectionForegroundInactive": "#EEEEEE",
