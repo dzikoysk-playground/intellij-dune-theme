@@ -504,7 +504,7 @@
     "$focusedBorder": "#323333",
     "$controlFocus": "#cca361",
     "$popupBorder": "#585858",
-    "$popupBackground": "#302e2c",
+    "$popupBackground": "#2f3030",
     "$toolwindowBackground": "#2F3030",
     "$panelBackground": "#2F3030",
     "$tooltipBackground": "#34312f",

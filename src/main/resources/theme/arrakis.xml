@@ -4,7 +4,7 @@
         <option name="ANNOTATIONS_COLOR" value="fffbf7"/>
         <option name="CARET_COLOR" value="5cc1a3e6"/>
         <option name="CARET_ROW_COLOR" value=""/>
-        <option name="CONSOLE_BACKGROUND_KEY" value="2d2a2e"/>
+        <option name="CONSOLE_BACKGROUND_KEY" value="2f3030"/>
         <option name="DELETED_LINES_COLOR" value="ff809f"/>
         <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30"/>
         <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b"/>
@@ -156,7 +156,7 @@
         <option name="BREADCRUMBS_DEFAULT">
             <value>
                 <option name="FOREGROUND" value="939393"/>
-                <option name="BACKGROUND" value="2d2a2e"/>
+                <option name="BACKGROUND" value="2f3030"/>
             </value>
         </option>
         <option name="BREADCRUMBS_HOVERED">
@@ -168,7 +168,7 @@
         <option name="BREADCRUMBS_INACTIVE">
             <value>
                 <option name="FOREGROUND" value="5b595c"/>
-                <option name="BACKGROUND" value="2d2a2e"/>
+                <option name="BACKGROUND" value="2f3030"/>
             </value>
         </option>
         <option name="BREAKPOINT_ATTRIBUTES">
@@ -2738,17 +2738,17 @@
         <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE"/>
         <option name="REST.FIXED">
             <value>
-                <option name="BACKGROUND" value="2d2a2e"/>
+                <option name="BACKGROUND" value="2f3030"/>
             </value>
         </option>
         <option name="REST.INLINE">
             <value>
-                <option name="BACKGROUND" value="2d2a2e"/>
+                <option name="BACKGROUND" value="2f3030"/>
             </value>
         </option>
         <option name="REST.INTERPRETED">
             <value>
-                <option name="BACKGROUND" value="2d2a2e"/>
+                <option name="BACKGROUND" value="2f3030"/>
             </value>
         </option>
         <option name="RHTML_EXPRESSION_END_ID">
@@ -2846,7 +2846,7 @@
         <option name="RUBY_HEREDOC_CONTENT">
             <value>
                 <option name="FOREGROUND" value="fcfcfa"/>
-                <option name="BACKGROUND" value="2d2a2e"/>
+                <option name="BACKGROUND" value="2f3030"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
