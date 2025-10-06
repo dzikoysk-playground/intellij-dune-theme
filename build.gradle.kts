@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "io.github.anvell"
-version = "3.0.0"
+version = "3.2.0"
 
 repositories {
     mavenCentral()
@@ -14,6 +14,7 @@ repositories {
 intellij {
     version.set("2024.1.7")
     type.set("IC")
+    updateSinceUntilBuild.set(false)
 }
 
 tasks {
@@ -31,6 +32,5 @@ tasks {
 
     patchPluginXml {
         sinceBuild.set("241")
-        untilBuild.set("243.*")
     }
 }
